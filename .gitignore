@@ -1,0 +1,29 @@
+# The application code lives in its own repository: github.com/BigRig-Creates/pitenna
+Code/
+
+# Slicer and CAD scratch output
+*.gcode
+*.3mf
+*.f3d~
+*.step~
+*.bak
+*.tmp
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Understanding that others may use AI assistance when pushing new changes.  Will be allowed for this project, but the excess files will be ignored.
+.cursor/
+.cursorignore
+.cursorindexingignore
+.cursorrules
+.aider*
+.claude/
+CLAUDE.md
+AGENTS.md
+.specstory/
+.continue/
+.windsurf/
+.github/copilot-instructions.md
